@@ -1,0 +1,17 @@
+body {
+    font-family: monospace;
+    background-color: black;
+    
+
+}
+body:hover{
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+
+}
+table{
+    border-collapse: collapse;
+}
